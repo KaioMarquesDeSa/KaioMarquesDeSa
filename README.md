@@ -10,7 +10,6 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Kaio-CSharp" width="45%" src=""/>
-
+<img align="center" alt="Kaio-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
 </div>
