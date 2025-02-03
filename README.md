@@ -8,9 +8,9 @@
 
 </div>
 
-<div>
+<div style="display: inline_block"><br>
 
-
+<img align="center" alt="Kaio-CSharp" width="45%" src=""/>
 
 
 </div>
